@@ -1,7 +1,6 @@
 "use client" 
 import React from 'react'
 import Image from 'next/image'
-import './home.css'
 import {useState} from 'react'
 import axios from 'axios';
 
