@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+main{
+    background-image: url(/background.jpg);
+    background-size: cover;
+}
